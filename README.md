@@ -2,7 +2,7 @@
 
 Run:
 ```
-1. gcc -o main main.c ./modules/frame.c
+1. gcc -o main main.c ./modules/frame.c -lncurses
 
 2. ./main
 ```
